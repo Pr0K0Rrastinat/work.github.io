@@ -9,7 +9,7 @@ const MainPage = ({ onButtonClick }) => {
         С 8 Марта
       </div>
       <div className='MainBlock'>
-        <img src="images/cat1.gif" alt="My GIF" />
+        <img src="public/images/cat1.gif" alt="My GIF" />
         <button onClick={onButtonClick} className="pink-button">
           Открыть открытку 
         </button>
